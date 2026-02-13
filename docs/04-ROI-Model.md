@@ -111,4 +111,9 @@ Improving onboarding activation presents a high-leverage opportunity:
 - Improves customer retention  
 - Creates a repeatable experimentation framework  
 
+## Revenue Impact Visualisation
+
+![Monthly Recurring Revenue Comparison](../assets/Monthly-Recurring-Revenue-Comparison.png)
+)
+
 Even under conservative assumptions, the initiative produces a strong ROI within the first year.
